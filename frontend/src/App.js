@@ -102,7 +102,7 @@ const App = () => {
       "type": "function"
     }
   ] ];
-  const contractAddress = "";
+  const contractAddress = "0x6E6a00d66Ae1fb0762375257CB5b23b1d556f9a2";
 
   useEffect(() => {
     const loadBlockchainData = async () => {
